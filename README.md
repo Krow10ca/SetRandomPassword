@@ -1,2 +1,2 @@
 # SetRandomPassword
-PowerShell script that configures a random passwords on a list of accounts
+PowerShell script that configures random passwords on a list of active directory accounts
